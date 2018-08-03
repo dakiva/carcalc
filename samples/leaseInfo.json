@@ -1,0 +1,11 @@
+{
+  "MSRP": 20000,
+  "DownPayment": 1000,
+  "Reductions": 1000,
+  "RegistrationFee": 350,
+  "DocumentFee": 80,
+  "TaxRate": 0.0775,
+  "ResidualRate": 0.53,
+  "MoneyFactor": 0.00156,
+  "Term": 36
+}

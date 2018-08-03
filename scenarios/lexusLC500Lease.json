@@ -1,0 +1,9 @@
+{
+  "MSRP": 98000,
+  "DownPayment": 0,
+  "Reductions": 4000,
+  "TaxRate": 0.0775,
+  "ResidualRate": 0.52,
+  "MoneyFactor": 0.0001,
+  "Term": 36
+}

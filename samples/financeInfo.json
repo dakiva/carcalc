@@ -1,0 +1,10 @@
+{
+  "MSRP": 20000,
+  "DownPayment": 1000,
+  "Reductions": 500,
+  "RegistrationFee": 350,
+  "DocumentFee": 80,
+  "TaxRate": 0.0775,
+  "APR": 0.034,
+  "Term": 60
+}

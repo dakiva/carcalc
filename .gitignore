@@ -1,0 +1,4 @@
+**/*.test
+.projectile
+.dir-locals.el
+.DS_Store
